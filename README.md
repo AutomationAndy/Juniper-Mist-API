@@ -9,8 +9,7 @@
 
 ### Resources ###
 
-Juniper Mist API Documentation
-- [https://api.mist.com/api/v1/docs/Home]
+Juniper Mist API Documentation - [https://api.mist.com/api/v1/docs/Home]
 
 Python
 - [https://www.python.org/]
