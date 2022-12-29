@@ -2,11 +2,12 @@
 ## readme.mds, ChangeLog & Goals ##
 
 * API Token
+  https://api.mist.com/api/v1/docs/Auth#api-token
     * Needs readme.md
     * Needs Python example
     * Needs Postman example
     * Needs Ansible playbook
-https://api.mist.com/api/v1/docs/Auth#api-token
+
 
 * Audit Logs
     * Needs readme.md
