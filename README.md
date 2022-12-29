@@ -9,20 +9,20 @@
 
 ### Resources ###
 
-Juniper Mist API Documentation
-[https://api.mist.com/api/v1/docs/Home]
+    Juniper Mist API Documentation
+    [https://api.mist.com/api/v1/docs/Home]
 
-Python
-[https://www.python.org/]
+    Python
+    [https://www.python.org/]
 
-Visual Studio Code
-[https://code.visualstudio.com/]
+    Visual Studio Code
+    [https://code.visualstudio.com/]
 
-Postman
-[https://www.postman.com/]
+    Postman
+    [https://www.postman.com/]
 
-What is JSON?
-[https://en.wikipedia.org/wiki/JSON]
+    What is JSON?
+    [https://en.wikipedia.org/wiki/JSON]
 
-django REST framework
-[https://www.django-rest-framework.org/]
+    django REST framework
+    [https://www.django-rest-framework.org/]
