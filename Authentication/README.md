@@ -1,44 +1,49 @@
 # Authentication API's #
 ## readme.mds, ChangeLog & Goals ##
 
+https://api.mist.com/api/v1/docs/Auth#api-token
 * API Token
     * Needs readme.md
     * Needs Python example
     * Needs Postman example
     * Needs Ansible playbook
-    <br>
-https://api.mist.com/api/v1/docs/Auth#api-token
 
 * Audit Logs
     * Needs readme.md
     * Needs Python example
     * Needs Postman example
     * Needs Ansible playbook
+
 * Integration
     * Needs readme.md
     * Needs Python example
     * Needs Postman example
     * Needs Ansible playbook
+
 * Leave
     * Needs readme.md
     * Needs Python example
     * Needs Postman example
     * Needs Ansible playbook
+
 * Login
     * Needs readme.md
     * Needs Python example
     * Needs Postman example
     * Needs Ansible playbook
+
 * Misc
     * Needs readme.md
     * Needs Python example
     * Needs Postman example
     * Needs Ansible playbook
+
 * Privileges
     * Needs readme.md
     * Needs Python example
     * Needs Postman example
     * Needs Ansible playbook
+    
 * Register
     * Needs readme.md
     * Needs Python example
