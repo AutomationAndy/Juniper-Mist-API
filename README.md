@@ -1,7 +1,9 @@
 # Unofficial Juniper Mist API #
+
 ## This will be my unofficial repo for all things Juniper Mist API. ##
 
 ### Goals ###
+
 * Python example of each API call
 * Postman example of each API call
 * Django example for each API call
