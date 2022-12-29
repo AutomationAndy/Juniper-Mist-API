@@ -5,6 +5,7 @@ Goals:
 * Python example of each API call
 * Postman example of each API call
 * Django example for each API call
+* Ansible playbooks for each API call
 
 Resources:
 
