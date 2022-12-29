@@ -1,6 +1,6 @@
 # Authentication API's #
 
-## readme.mds, ChangeLog & Goals ##
+## ChangeLog & Goals ##
 
 * API Token - <https://api.mist.com/api/v1/docs/Auth#api-token>
   * Needs Python example
