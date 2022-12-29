@@ -12,13 +12,8 @@
 ### Resources ###
 
 Juniper Mist API Documentation - [https://api.mist.com/api/v1/docs/Home]
-
 Python - [https://www.python.org/]
-
 Visual Studio Code - [https://code.visualstudio.com/]
-
 Postman - [https://www.postman.com/]
-
 What is JSON? - [https://en.wikipedia.org/wiki/JSON]
-
 django REST framework - [https://www.django-rest-framework.org/]
