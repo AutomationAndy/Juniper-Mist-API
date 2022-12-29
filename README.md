@@ -1,6 +1,6 @@
 # Unofficial Juniper Mist API #
 
-## This will be my unofficial repo for all things Juniper Mist API. ##
+## This will be my unofficial repo for all things Juniper Mist API ##
 
 ### Goals ###
 
