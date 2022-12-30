@@ -1,0 +1,110 @@
+{
+	"info": {
+		"_postman_id": "db1eece6-411f-4f04-85aa-0e37e168829e",
+		"name": "Juniper-Mist-API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4265454"
+	},
+	"item": [
+		{
+			"name": "Authentication",
+			"item": [
+				{
+					"name": "API Token",
+					"item": [
+						{
+							"name": "Create API Token",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"url": {
+									"raw": "https://api.mist.com/api/v1/self/apitokens",
+									"protocol": "https",
+									"host": [
+										"api",
+										"mist",
+										"com"
+									],
+									"path": [
+										"api",
+										"v1",
+										"self",
+										"apitokens"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Use API Token",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://api.mist.com/api/v1/self/apitokens",
+									"protocol": "https",
+									"host": [
+										"api",
+										"mist",
+										"com"
+									],
+									"path": [
+										"api",
+										"v1",
+										"self",
+										"apitokens"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "List Current API Tokens",
+							"request": {
+								"method": "GET",
+								"header": []
+							},
+							"response": []
+						},
+						{
+							"name": "Delete API Token",
+							"request": {
+								"method": "DELETE",
+								"header": []
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "Audit Logs",
+					"item": []
+				},
+				{
+					"name": "Integration",
+					"item": []
+				},
+				{
+					"name": "Leave",
+					"item": []
+				},
+				{
+					"name": "Login",
+					"item": []
+				},
+				{
+					"name": "Misc",
+					"item": []
+				},
+				{
+					"name": "Privileges",
+					"item": []
+				},
+				{
+					"name": "Register",
+					"item": []
+				}
+			]
+		}
+	]
+}
