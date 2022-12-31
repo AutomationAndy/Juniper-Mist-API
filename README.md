@@ -11,13 +11,45 @@
 
 ### To-Do List ###
 
-#### General ####
+#### General To-Do ####
 
-* [ ] Create folder structure for repo
-  * [x] Create Authentication section and sub-sections
-  * [ ] Crate MSP section and sub-sections
-  * [ ] Create Organization section and sub-sections
-  * [ ] Create Site section and sub-sections
+* [ ] Complete first pass of all documentation and examples
+  * [ ] Authentication Section
+    * [ ] API Token
+      * [x] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Audit Logs
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Integration
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Leave
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Login
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Misc
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Privileges
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Register
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+  * [ ] MSP Section
+  * [ ] Oraginzation Section
+  * [ ] Site Section
 
 #### Postman ####
 
