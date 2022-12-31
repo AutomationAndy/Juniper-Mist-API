@@ -13,8 +13,9 @@
 
 #### General To-Do ####
 
-<summary>Complete first pass of all documentation and examples</summary>
 <details>
+<summary>Complete first pass of all documentation and examples</summary>
+
 * [ ] Authentication Section
   * [ ] API Token
     * [ ] Documentation
@@ -48,6 +49,7 @@
     * [ ] Documentation
     * [ ] Python Example
     * [ ] Ansible Example
+
 </details>
 
   * [ ] MSP Section
