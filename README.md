@@ -11,6 +11,14 @@
 
 ### To-Do List ###
 
+#### General ####
+
+* [ ] Create folder structure for repo
+  * [x] Create Authentication section and sub-sections
+  * [ ] Crate MSP section and sub-sections
+  * [ ] Create Organization section and sub-sections
+  * [ ] Create Site section and sub-sections
+
 #### Postman ####
 
 * [x] Create Postman Workspace
