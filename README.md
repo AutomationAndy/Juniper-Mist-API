@@ -13,9 +13,13 @@
 
 #### Postman ####
 
-* [x] Test1
-* [ ] Test2
-* [ ] Test3
+* [x] Create Postman Workspace
+* [x] Figure out how to export it to a file and save it on GitHub
+* [ ] Create folder structure for Postman workspace
+  * [x] Create Authentication section and sub-sections
+  * [ ] Crate MSP section and sub-sections
+  * [ ] Create Organization section and sub-sections
+  * [ ] Create Site section and sub-sections
 
 ### Resources ###
 
