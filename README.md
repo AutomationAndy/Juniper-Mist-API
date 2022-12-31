@@ -4,16 +4,18 @@
 
 ### Goals ###
 
-* Python example of each API call
-* Update Postman workspace with all the API's
-* Django example for each API call
-* Ansible playbooks for each API call
+* Description in my own words of what the API does
+* Python example of each API
+* Postman workspace with a collection of all the APIs listed in this repo
+* Django example for each API
+* Ansible playbook for each API
+* Misc/Other section for useful scripts/snippits/notes. Things like a Python script to read/write csv files, Postman runner collections, error handlers for various things and notes on storing and using tokens securely in each platform.
 
 ### To-Do List ###
 
-#### General To-Do ####
+#### General ####
 
-Complete first pass of all documentation and examples - Click to expand sections
+First thing is to get the file structure on the repo and the Postman workspace export to reflect the Juniper Mist documentation, then start writing documentation and examples of each. I'm starting with the Authentication section and undecided on what I should prioritize after. I'm going to start with Python and Postman examples since they're the easiest to just copy/paste and use on your own. Postman  has a code export tool that can convert the Postman request into Python. I might just start with those as Python examples and modify that code after theres content in each section.
 
 <details>
 <summary>Authentication Section</summary>
