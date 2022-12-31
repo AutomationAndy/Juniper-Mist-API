@@ -13,40 +13,42 @@
 
 #### General To-Do ####
 
-* [ ] Complete first pass of all documentation and examples
-  * [ ] Authentication Section
-    * [ ] API Token
-      * [ ] Documentation
-      * [ ] Python Example
-      * [ ] Ansible Example
-    * [ ] Audit Logs
-      * [ ] Documentation
-      * [ ] Python Example
-      * [ ] Ansible Example
-    * [ ] Integration
-      * [ ] Documentation
-      * [ ] Python Example
-      * [ ] Ansible Example
-    * [ ] Leave
-      * [ ] Documentation
-      * [ ] Python Example
-      * [ ] Ansible Example
-    * [ ] Login
-      * [ ] Documentation
-      * [ ] Python Example
-      * [ ] Ansible Example
-    * [ ] Misc
-      * [ ] Documentation
-      * [ ] Python Example
-      * [ ] Ansible Example
-    * [ ] Privileges
-      * [ ] Documentation
-      * [ ] Python Example
-      * [ ] Ansible Example
-    * [ ] Register
-      * [ ] Documentation
-      * [ ] Python Example
-      * [ ] Ansible Example
+<summary>Complete first pass of all documentation and examples</summary>
+<details>
+* [ ] Authentication Section
+  * [ ] API Token
+    * [ ] Documentation
+    * [ ] Python Example
+    * [ ] Ansible Example
+  * [ ] Audit Logs
+    * [ ] Documentation
+    * [ ] Python Example
+    * [ ] Ansible Example
+  * [ ] Integration
+    * [ ] Documentation
+    * [ ] Python Example
+    * [ ] Ansible Example
+  * [ ] Leave
+    * [ ] Documentation
+    * [ ] Python Example
+    * [ ] Ansible Example
+  * [ ] Login
+    * [ ] Documentation
+    * [ ] Python Example
+    * [ ] Ansible Example
+  * [ ] Misc
+    * [ ] Documentation
+    * [ ] Python Example
+    * [ ] Ansible Example
+  * [ ] Privileges
+    * [ ] Documentation
+    * [ ] Python Example
+    * [ ] Ansible Example
+  * [ ] Register
+    * [ ] Documentation
+    * [ ] Python Example
+    * [ ] Ansible Example
+</details>
 
   * [ ] MSP Section
     * [ ] Audit Logs
