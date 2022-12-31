@@ -12,9 +12,10 @@
 ### To-Do List ###
 
 #### Postman ####
-- [x] Test1
-- [ ] Test2
-- [ ] Test3
+
+* [x] Test1
+* [ ] Test2
+* [ ] Test3
 
 ### Resources ###
 
