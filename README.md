@@ -13,42 +13,41 @@
 
 #### General To-Do ####
 
+Complete first pass of all documentation and examples
 <details>
-<summary>Complete first pass of all documentation and examples</summary>
-
-* [ ] Authentication Section
-  * [ ] API Token
-    * [ ] Documentation
-    * [ ] Python Example
-    * [ ] Ansible Example
-  * [ ] Audit Logs
-    * [ ] Documentation
-    * [ ] Python Example
-    * [ ] Ansible Example
-  * [ ] Integration
-    * [ ] Documentation
-    * [ ] Python Example
-    * [ ] Ansible Example
-  * [ ] Leave
-    * [ ] Documentation
-    * [ ] Python Example
-    * [ ] Ansible Example
-  * [ ] Login
-    * [ ] Documentation
-    * [ ] Python Example
-    * [ ] Ansible Example
-  * [ ] Misc
-    * [ ] Documentation
-    * [ ] Python Example
-    * [ ] Ansible Example
-  * [ ] Privileges
-    * [ ] Documentation
-    * [ ] Python Example
-    * [ ] Ansible Example
-  * [ ] Register
-    * [ ] Documentation
-    * [ ] Python Example
-    * [ ] Ansible Example
+<summary>Authentication Section</summary>
+* [ ] API Token
+  * [ ] Documentation
+  * [ ] Python Example
+  * [ ] Ansible Example
+* [ ] Audit Logs
+  * [ ] Documentation
+  * [ ] Python Example
+  * [ ] Ansible Example
+* [ ] Integration
+  * [ ] Documentation
+  * [ ] Python Example
+  * [ ] Ansible Example
+* [ ] Leave
+  * [ ] Documentation
+  * [ ] Python Example
+  * [ ] Ansible Example
+* [ ] Login
+  * [ ] Documentation
+  * [ ] Python Example
+  * [ ] Ansible Example
+* [ ] Misc
+  * [ ] Documentation
+  * [ ] Python Example
+  * [ ] Ansible Example
+* [ ] Privileges
+  * [ ] Documentation
+  * [ ] Python Example
+  * [ ] Ansible Example
+* [ ] Register
+  * [ ] Documentation
+  * [ ] Python Example
+  * [ ] Ansible Example
 
 </details>
 
