@@ -16,6 +16,7 @@
 Complete first pass of all documentation and examples
 <details>
 <summary>Authentication Section</summary>
+
 * [ ] API Token
   * [ ] Documentation
   * [ ] Python Example
