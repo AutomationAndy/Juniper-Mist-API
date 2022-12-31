@@ -5,9 +5,17 @@
 ### Goals ###
 
 * Python example of each API call
-* Postman example of each API call
+* Update Postman workspace with all the API's
 * Django example for each API call
 * Ansible playbooks for each API call
+
+### To-Do List ###
+
+#### Postman ####
+
+-[x] Test1
+-[] Test2
+-[] Test3
 
 ### Resources ###
 
