@@ -16,7 +16,7 @@
 * [ ] Complete first pass of all documentation and examples
   * [ ] Authentication Section
     * [ ] API Token
-      * [x] Documentation
+      * [ ] Documentation
       * [ ] Python Example
       * [ ] Ansible Example
     * [ ] Audit Logs
@@ -47,9 +47,324 @@
       * [ ] Documentation
       * [ ] Python Example
       * [ ] Ansible Example
+
   * [ ] MSP Section
-  * [ ] Oraginzation Section
+    * [ ] Audit Logs
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] License
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] MSP Admins
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] MSP Insights
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Group
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+
+  * [ ] Organization Section
+    * [ ] Admins
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] AP Template
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] API Token
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Audit Logs
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Custom Roles
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Device Profile
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] EVPN
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Gateway Template
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Installer APIs
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Inventory
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] License
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Map Import
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Network Template
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Networks
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Asset
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Asset Filters
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org PSK
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Report (Under development)
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Setting
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Stats
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Webhooks
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Wlan
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Wxlan Rules
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Wxlan Tags
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Org Wxlan Tunnel
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] PSK Portal
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] RF Template
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] SDK Client
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] SDK Invite
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] SDK Template
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Service Policies
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Services
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Site Groups
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Template
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Tickets
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] VPN
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+
   * [ ] Site Section
+    * [ ] Alarms
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Asset Filters
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Assets
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Beacons
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Client Stats
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Const
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Device
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Device Stats
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Discovered Switch Metrics Search
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Discovered Switches
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] EVPN
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] HA Cluster
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Insights
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Location
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Machine Learning
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Map
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Packet Capture
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] PSK
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Report (under development)
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] RF Glass
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] RF Glass Recording
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Rogue Detection and Mitigation
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] RRM
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] RSSI Zone
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Site
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Site 128T (SSR)
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Site MxEdge
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Site Setting
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Subscriptions
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Unconnected Client Location
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Virtual Beacons
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Virtual Chassis
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Webhooks
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] WXLAN
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Zone
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
+    * [ ] Zone Stats
+      * [ ] Documentation
+      * [ ] Python Example
+      * [ ] Ansible Example
 
 #### Postman ####
 
