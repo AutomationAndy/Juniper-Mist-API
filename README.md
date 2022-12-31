@@ -13,10 +13,10 @@
 
 #### General To-Do ####
 
-Complete first pass of all documentation and examples
+Complete first pass of all documentation and examples - Click to expand sections
 
 <details>
-<summary>Authentication Section (click to expand)</summary>
+<summary>Authentication Section</summary>
 
 * [ ] API Token
   * [ ] Documentation
@@ -54,7 +54,7 @@ Complete first pass of all documentation and examples
 </details>
 
 <details>
-<summary>MSP Section (click to expand)</summary>
+<summary>MSP Section</summary>
 
 * [ ] Audit Logs
   * [ ] Documentation
@@ -80,7 +80,7 @@ Complete first pass of all documentation and examples
 </details>
 
 <details>
-<summary>Organization Section  (click to expand)</summary>
+<summary>Organization Section</summary>
 
 * [ ] Admins
   * [ ] Documentation
@@ -234,7 +234,7 @@ Complete first pass of all documentation and examples
 </details>
 
 <details>
-<summary>Site Section (click to expand)</summary>
+<summary>Site Section</summary>
 
 * [ ] Alarms
   * [ ] Documentation
