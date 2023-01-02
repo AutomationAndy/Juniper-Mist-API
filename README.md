@@ -9,7 +9,8 @@
 * Postman workspace with a collection of all the APIs listed in this repo
 * Django example for each API
 * Ansible playbook for each API
-* Misc/Other section for useful scripts/snippits/notes. Things like a Python script to read/write csv files, Postman runner collections, error handlers for various things and notes on storing and using tokens securely in each platform.
+* Misc/Other section for useful scripts/snippits/notes. Things like a Python script to read/write csv files, Postman runner collections, error handlers for various things and notes on storing and using tokens securely in each platform
+* Remember to write something about webhooks and web sockets
 
 ### To-Do List ###
 
