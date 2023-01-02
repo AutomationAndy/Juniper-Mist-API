@@ -22,34 +22,42 @@ First thing is to get the file structure on the repo and the Postman workspace e
 
 * [ ] API Token
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Audit Logs
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Integration
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Leave
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Login
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Misc
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Privileges
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Register
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 
@@ -60,22 +68,27 @@ First thing is to get the file structure on the repo and the Postman workspace e
 
 * [ ] Audit Logs
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] License
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] MSP Admins
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] MSP Insights
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Group
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 
@@ -86,150 +99,187 @@ First thing is to get the file structure on the repo and the Postman workspace e
 
 * [ ] Admins
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] AP Template
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] API Token
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Audit Logs
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Custom Roles
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Device Profile
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] EVPN
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Gateway Template
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Installer APIs
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Inventory
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] License
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Map Import
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Network Template
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Networks
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Asset
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Asset Filters
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org PSK
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Report (Under development)
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Setting
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Stats
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Webhooks
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Wlan
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Wxlan Rules
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Wxlan Tags
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Org Wxlan Tunnel
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] PSK Portal
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] RF Template
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] SDK Client
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] SDK Invite
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] SDK Template
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Service Policies
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Services
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Site Groups
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Template
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Tickets
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] VPN
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 
@@ -240,160 +290,196 @@ First thing is to get the file structure on the repo and the Postman workspace e
 
 * [ ] Alarms
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Asset Filters
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Assets
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Beacons
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Client Stats
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Const
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Device
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Device Stats
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Discovered Switch Metrics Search
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Discovered Switches
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] EVPN
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] HA Cluster
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Insights
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Location
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Machine Learning
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Map
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Packet Capture
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] PSK
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Report (under development)
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] RF Glass
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] RF Glass Recording
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Rogue Detection and Mitigation
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] RRM
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] RSSI Zone
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Site
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Site 128T (SSR)
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Site MxEdge
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Site Setting
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Subscriptions
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Unconnected Client Location
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Virtual Beacons
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Virtual Chassis
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Webhooks
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] WXLAN
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Zone
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
 * [ ] Zone Stats
   * [ ] Documentation
+  * [ ] Postman Example
   * [ ] Python Example
   * [ ] Ansible Example
-
+  
 </details>
 
 #### Postman ####
 
 * [x] Create Postman Workspace
 * [x] Figure out how to export it to a file and save it on GitHub
-* [ ] Create folder structure for Postman workspace
+* [x] Create folder structure for Postman workspace
   * [x] Create Authentication section and sub-sections
-  * [ ] Crate MSP section and sub-sections
-  * [ ] Create Organization section and sub-sections
-  * [ ] Create Site section and sub-sections
+  * [x] Crate MSP section and sub-sections
+  * [x] Create Organization section and sub-sections
+  * [x] Create Site section and sub-sections
 
 ### Resources ###
 
