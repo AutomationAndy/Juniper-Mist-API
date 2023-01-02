@@ -105,6 +105,325 @@
 					"item": []
 				}
 			]
+		},
+		{
+			"name": "MSP",
+			"item": [
+				{
+					"name": "Audit Logs",
+					"item": []
+				},
+				{
+					"name": "License",
+					"item": []
+				},
+				{
+					"name": "MSP Admins",
+					"item": []
+				},
+				{
+					"name": "MSP Insights",
+					"item": []
+				},
+				{
+					"name": "Org Group",
+					"item": []
+				}
+			]
+		},
+		{
+			"name": "Organization",
+			"item": [
+				{
+					"name": "Admins",
+					"item": []
+				},
+				{
+					"name": "AP Template",
+					"item": []
+				},
+				{
+					"name": "API Token",
+					"item": []
+				},
+				{
+					"name": "Audit Logs",
+					"item": []
+				},
+				{
+					"name": "Custom Roles",
+					"item": []
+				},
+				{
+					"name": "Device Profile",
+					"item": []
+				},
+				{
+					"name": "EVPN",
+					"item": []
+				},
+				{
+					"name": "Gateway Template",
+					"item": []
+				},
+				{
+					"name": "Installer APIs",
+					"item": []
+				},
+				{
+					"name": "Inventory",
+					"item": []
+				},
+				{
+					"name": "License",
+					"item": []
+				},
+				{
+					"name": "Map Import",
+					"item": []
+				},
+				{
+					"name": "Network Template",
+					"item": []
+				},
+				{
+					"name": "Networks",
+					"item": []
+				},
+				{
+					"name": "Org",
+					"item": []
+				},
+				{
+					"name": "Org Asset",
+					"item": []
+				},
+				{
+					"name": "Org Asset Filters",
+					"item": []
+				},
+				{
+					"name": "Org PSK",
+					"item": []
+				},
+				{
+					"name": "Org Report (Under development)",
+					"item": []
+				},
+				{
+					"name": "Org Setting",
+					"item": []
+				},
+				{
+					"name": "Org Stats",
+					"item": []
+				},
+				{
+					"name": "Org Webhooks",
+					"item": []
+				},
+				{
+					"name": "Org Wlan",
+					"item": []
+				},
+				{
+					"name": "Org Wxlan Rules",
+					"item": []
+				},
+				{
+					"name": "Org Wxlan Tags",
+					"item": []
+				},
+				{
+					"name": "Org Wxlan Tunnel",
+					"item": []
+				},
+				{
+					"name": "PSK Portal",
+					"item": []
+				},
+				{
+					"name": "RF Template",
+					"item": []
+				},
+				{
+					"name": "SDK Client",
+					"item": []
+				},
+				{
+					"name": "SDK Invite",
+					"item": []
+				},
+				{
+					"name": "SDK Template",
+					"item": []
+				},
+				{
+					"name": "Service Policies",
+					"item": []
+				},
+				{
+					"name": "Services",
+					"item": []
+				},
+				{
+					"name": "Site Groups",
+					"item": []
+				},
+				{
+					"name": "Template",
+					"item": []
+				},
+				{
+					"name": "Tickets",
+					"item": []
+				},
+				{
+					"name": "VPN",
+					"item": []
+				}
+			]
+		},
+		{
+			"name": "Site",
+			"item": [
+				{
+					"name": "Asset Filters",
+					"item": []
+				},
+				{
+					"name": "Assets",
+					"item": []
+				},
+				{
+					"name": "Beacons",
+					"item": []
+				},
+				{
+					"name": "Client Stats",
+					"item": []
+				},
+				{
+					"name": "Const",
+					"item": []
+				},
+				{
+					"name": "Device",
+					"item": []
+				},
+				{
+					"name": "Device Stats",
+					"item": []
+				},
+				{
+					"name": "Discovered Switch Metrics Search",
+					"item": []
+				},
+				{
+					"name": "Discovered Switches",
+					"item": []
+				},
+				{
+					"name": "EVPN",
+					"item": []
+				},
+				{
+					"name": "HA Cluster",
+					"item": []
+				},
+				{
+					"name": "Insights",
+					"item": []
+				},
+				{
+					"name": "Location",
+					"item": []
+				},
+				{
+					"name": "Machine Learning",
+					"item": []
+				},
+				{
+					"name": "Map",
+					"item": []
+				},
+				{
+					"name": "Packet Capture",
+					"item": []
+				},
+				{
+					"name": "PSK",
+					"item": []
+				},
+				{
+					"name": "Report (under development)",
+					"item": []
+				},
+				{
+					"name": "RF Glass",
+					"item": []
+				},
+				{
+					"name": "RF Glass Recording",
+					"item": []
+				},
+				{
+					"name": "Rogue Detection and Mitigation",
+					"item": []
+				},
+				{
+					"name": "RRM",
+					"item": []
+				},
+				{
+					"name": "RSSI Zone",
+					"item": []
+				},
+				{
+					"name": "Site",
+					"item": []
+				},
+				{
+					"name": "Site 128T (SSR)",
+					"item": []
+				},
+				{
+					"name": "Site MxEdge",
+					"item": []
+				},
+				{
+					"name": "Site Setting",
+					"item": []
+				},
+				{
+					"name": "Subscriptions",
+					"item": []
+				},
+				{
+					"name": "Unconnected Client Location",
+					"item": []
+				},
+				{
+					"name": "Virtual Beacons",
+					"item": []
+				},
+				{
+					"name": "Webhooks",
+					"item": []
+				},
+				{
+					"name": "WXLAN",
+					"item": []
+				},
+				{
+					"name": "Zone",
+					"item": []
+				},
+				{
+					"name": "Zone Stats",
+					"item": []
+				}
+			]
 		}
 	]
 }
