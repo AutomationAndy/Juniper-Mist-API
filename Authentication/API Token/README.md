@@ -11,8 +11,9 @@ Tokens can also be setup on the Mist dashboard under Organization > Settings the
 I suggest you create a token per project/integration with only the access required for your project. This way if something breaks or someone gets your token you can just delete the token and it wont affect any other automation projects you have.
 
 ## File Descriptions ##
-| ---                                      | ---                                               |
+
 | File Name                                | Description                                       |
+| ---                                      | ---                                               |
 |                                                                                              |
 | Create-API-Token_Django.md              - Placeholder File        <i>-- Not Complete --</i>  |
 | Create-API-Token_Python.py              - Placeholder File        <i>-- Not Complete --</i>  |
