@@ -15,7 +15,7 @@ I suggest you create a token per project/integration with only the access requir
 | File Name                                                                 | Description                       |
 | ---                                                                       | ---                               |
 | [Create-API-Token_Django.md](Create-API-Token_Django.md)                  |        <i>-- Not Complete --</i>  |
-| [Create-API-Token_Python.py](Create-API-Token.py)                         |        <i>-- Not Complete --</i>  |
+| [Create-API-Token_Python.py](Create-API-Token_Python.py)                  |        <i>-- Not Complete --</i>  |
 | [Create-API-Token_Ansible.yml](Create-API-Token_Ansible.yml)              |        <i>-- Not Complete --</i>  |
 |                                                                                                               |
 |                                                                                                               |
