@@ -12,18 +12,18 @@ I suggest you create a token per project/integration with only the access requir
 
 ## File Descriptions ##
 
-<b>Create-API-Token_Django.md</b> - Placeholder File -- Not Complete --  
-Create-API-Token_Python.py - Placeholder File -- Not Complete --  
-Create-API-Token_Ansible.yml - Placeholder File -- Not Complete --  
+<b>Create-API-Token_Django.md</b> - Placeholder File        <i>-- Not Complete --</i>  
+<b>Create-API-Token_Python.py</b> - Placeholder File        <i>-- Not Complete --</i>  
+<b>Create-API-Token_Ansible.yml</b> - Placeholder File      <i>-- Not Complete --</i>  
 
-Delete-API-Token_Django.md - Placeholder File -- Not Complete --  
-Delete-API-Token_Python.py.py - Placeholder File -- Not Complete --  
-Delete-API-Token_Ansible.yml.yml - Placeholder File -- Not Complete --  
+<b>Delete-API-Token_Django.md</b> - Placeholder File        <i>-- Not Complete --</i>  
+<b>Delete-API-Token_Python.py.py</b> - Placeholder File     <i>-- Not Complete --</i>  
+<b>Delete-API-Token_Ansible.yml.yml</b> - Placeholder File  <i>-- Not Complete --</i>  
 
-List-API-Token_Django.md - Placeholder File -- Not Complete --  
-List-API-Token_Python.py.py - Placeholder File -- Not Complete --  
-List-API-Token_Ansible.yml.yml - Placeholder File -- Not Complete --  
+<b>List-API-Token_Django.md</b> - Placeholder File          <i>-- Not Complete --</i>  
+<b>List-API-Token_Python.py.py</b> - Placeholder File       <i>-- Not Complete --</i>  
+<b>List-API-Token_Ansible.yml.yml</b> - Placeholder File    <i>-- Not Complete --</i>  
 
-Use-API-Token_Django.md - Placeholder File -- Not Complete --  
-Use-API-Token_Python.py.py - Placeholder File -- Not Complete --  
-Use-API-Token_Ansible.yml.yml - Placeholder File -- Not Complete --  
+<b>Use-API-Token_Django.md</b> - Placeholder File           <i>-- Not Complete --</i>  
+<b>Use-API-Token_Python.py.py</b> - Placeholder File        <i>-- Not Complete --</i>  
+<b>Use-API-Token_Ansible.yml.yml</b> - Placeholder File     <i>-- Not Complete --</i>  
