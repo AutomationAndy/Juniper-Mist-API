@@ -12,24 +12,28 @@ I suggest you create a token per project/integration with only the access requir
 
 ## File Descriptions ##
 
-| File Name                                | Description                                       |
-| ---                                      | ---                                               |
-|                                                                                              |
-| Create-API-Token_Django.md              - Placeholder File        <i>-- Not Complete --</i>  |
-| Create-API-Token_Python.py              - Placeholder File        <i>-- Not Complete --</i>  |
-| Create-API-Token_Ansible.yml            - Placeholder File        <i>-- Not Complete --</i>  |
-|                                                                                              |
-| Delete-API-Token_Django.md              - Placeholder File        <i>-- Not Complete --</i>  |
-| Delete-API-Token_Python.py.py           - Placeholder File        <i>-- Not Complete --</i>  |
-| Delete-API-Token_Ansible.yml.yml        - Placeholder File        <i>-- Not Complete --</i>  |
-|                                                                                              |
-| List-API-Token_Django.md                - Placeholder File        <i>-- Not Complete --</i>  |
-| List-API-Token_Python.py.py             - Placeholder File        <i>-- Not Complete --</i>  |
-| List-API-Token_Ansible.yml.yml          - Placeholder File        <i>-- Not Complete --</i>  |
-|                                                                                              |
-| Use-API-Token_Django.md                 - Placeholder File        <i>-- Not Complete --</i>  |
-| Use-API-Token_Python.py.py              - Placeholder File        <i>-- Not Complete --</i>  |
-| Use-API-Token_Ansible.yml.yml           - Placeholder File        <i>-- Not Complete --</i>  |
+| File Name                                | Description                       |
+| ---                                      | ---                               |
+|                                                                              |
+|                                                                              |
+| Create-API-Token_Django.md               |        <i>-- Not Complete --</i>  |
+| Create-API-Token_Python.py               |        <i>-- Not Complete --</i>  |
+| Create-API-Token_Ansible.yml             |        <i>-- Not Complete --</i>  |
+|                                                                              |
+|                                                                              |
+| Delete-API-Token_Django.md               |        <i>-- Not Complete --</i>  |
+| Delete-API-Token_Python.py.py            |        <i>-- Not Complete --</i>  |
+| Delete-API-Token_Ansible.yml.yml         |        <i>-- Not Complete --</i>  |
+|                                                                              |
+|                                                                              |
+| List-API-Token_Django.md                 |        <i>-- Not Complete --</i>  |
+| List-API-Token_Python.py.py              |        <i>-- Not Complete --</i>  |
+| List-API-Token_Ansible.yml.yml           |        <i>-- Not Complete --</i>  |
+|                                                                              |
+|                                                                              |
+| Use-API-Token_Django.md                  |        <i>-- Not Complete --</i>  |
+| Use-API-Token_Python.py.py               |        <i>-- Not Complete --</i>  |
+| Use-API-Token_Ansible.yml.yml            |        <i>-- Not Complete --</i>  |
 
 | File Name | Description |
 | ---       | ---         |
