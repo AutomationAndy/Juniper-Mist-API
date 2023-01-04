@@ -11,22 +11,24 @@ Tokens can also be setup on the Mist dashboard under Organization > Settings the
 I suggest you create a token per project/integration with only the access required for your project. This way if something breaks or someone gets your token you can just delete the token and it wont affect any other automation projects you have.
 
 ## File Descriptions ##
-
-<b>Create-API-Token_Django.md</b> - Placeholder File        <i>-- Not Complete --</i>  
-<b>Create-API-Token_Python.py</b> - Placeholder File        <i>-- Not Complete --</i>  
-<b>Create-API-Token_Ansible.yml</b> - Placeholder File      <i>-- Not Complete --</i>  
-
-<b>Delete-API-Token_Django.md</b> - Placeholder File        <i>-- Not Complete --</i>  
-<b>Delete-API-Token_Python.py.py</b> - Placeholder File     <i>-- Not Complete --</i>  
-<b>Delete-API-Token_Ansible.yml.yml</b> - Placeholder File  <i>-- Not Complete --</i>  
-
-<b>List-API-Token_Django.md</b> - Placeholder File          <i>-- Not Complete --</i>  
-<b>List-API-Token_Python.py.py</b> - Placeholder File       <i>-- Not Complete --</i>  
-<b>List-API-Token_Ansible.yml.yml</b> - Placeholder File    <i>-- Not Complete --</i>  
-
-<b>Use-API-Token_Django.md</b> - Placeholder File           <i>-- Not Complete --</i>  
-<b>Use-API-Token_Python.py.py</b> - Placeholder File        <i>-- Not Complete --</i>  
-<b>Use-API-Token_Ansible.yml.yml</b> - Placeholder File     <i>-- Not Complete --</i>  
+| ---                                      | ---                                               |
+| File Name                                | Description                                       |
+|                                                                                              |
+| Create-API-Token_Django.md              - Placeholder File        <i>-- Not Complete --</i>  |
+| Create-API-Token_Python.py              - Placeholder File        <i>-- Not Complete --</i>  |
+| Create-API-Token_Ansible.yml            - Placeholder File        <i>-- Not Complete --</i>  |
+|                                                                                              |
+| Delete-API-Token_Django.md              - Placeholder File        <i>-- Not Complete --</i>  |
+| Delete-API-Token_Python.py.py           - Placeholder File        <i>-- Not Complete --</i>  |
+| Delete-API-Token_Ansible.yml.yml        - Placeholder File        <i>-- Not Complete --</i>  |
+|                                                                                              |
+| List-API-Token_Django.md                - Placeholder File        <i>-- Not Complete --</i>  |
+| List-API-Token_Python.py.py             - Placeholder File        <i>-- Not Complete --</i>  |
+| List-API-Token_Ansible.yml.yml          - Placeholder File        <i>-- Not Complete --</i>  |
+|                                                                                              |
+| Use-API-Token_Django.md                 - Placeholder File        <i>-- Not Complete --</i>  |
+| Use-API-Token_Python.py.py              - Placeholder File        <i>-- Not Complete --</i>  |
+| Use-API-Token_Ansible.yml.yml           - Placeholder File        <i>-- Not Complete --</i>  |
 
 | File Name | Description |
 | ---       | ---         |
