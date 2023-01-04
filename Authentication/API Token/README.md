@@ -12,25 +12,23 @@ I suggest you create a token per project/integration with only the access requir
 
 ## File Descriptions ##
 
-| File Name                                | Description                       |
-| ---                                      | ---                               |
-|                                                                              |
-|                                                                              |
-| [Create-API-Token_Django.md](Create-API-Token_Django.md)               |        <i>-- Not Complete --</i>  |
-| Create-API-Token_Python.py               |        <i>-- Not Complete --</i>  |
-| Create-API-Token_Ansible.yml             |        <i>-- Not Complete --</i>  |
-|                                                                              |
-|                                                                              |
-| Delete-API-Token_Django.md               |        <i>-- Not Complete --</i>  |
-| Delete-API-Token_Python.py.py            |        <i>-- Not Complete --</i>  |
-| Delete-API-Token_Ansible.yml.yml         |        <i>-- Not Complete --</i>  |
-|                                                                              |
-|                                                                              |
-| List-API-Token_Django.md                 |        <i>-- Not Complete --</i>  |
-| List-API-Token_Python.py.py              |        <i>-- Not Complete --</i>  |
-| List-API-Token_Ansible.yml.yml           |        <i>-- Not Complete --</i>  |
-|                                                                              |
-|                                                                              |
-| Use-API-Token_Django.md                  |        <i>-- Not Complete --</i>  |
-| Use-API-Token_Python.py.py               |        <i>-- Not Complete --</i>  |
-| Use-API-Token_Ansible.yml.yml            |        <i>-- Not Complete --</i>  |
+| File Name                                                                 | Description                       |
+| ---                                                                       | ---                               |
+| [Create-API-Token_Django.md](Create-API-Token_Django.md)                  |        <i>-- Not Complete --</i>  |
+| [Create-API-Token_Python.py](Create-API-Token.py)                         |        <i>-- Not Complete --</i>  |
+| [Create-API-Token_Ansible.yml](Create-API-Token_Ansible.yml)              |        <i>-- Not Complete --</i>  |
+|                                                                                                               |
+|                                                                                                               |
+| [Delete-API-Token_Django.md](Delete-API-Token_Django.md)                  |        <i>-- Not Complete --</i>  |
+| [Delete-API-Token_Python.py](Delete-API-Token_Python.py)                  |        <i>-- Not Complete --</i>  |
+| [Delete-API-Token_Ansible.yml](Delete-API-Token_Ansible.yml)              |        <i>-- Not Complete --</i>  |
+|                                                                                                               |
+|                                                                                                               |
+| [List-API-Token_Django.md](List-API-Token_Django.md)                      |        <i>-- Not Complete --</i>  |
+| [List-API-Token_Python.py](List-API-Token_Python.py)                      |        <i>-- Not Complete --</i>  |
+| [List-API-Token_Ansible.yml](List-API-Token_Ansible.yml)                  |        <i>-- Not Complete --</i>  |
+|                                                                                                               |
+|                                                                                                               |
+| [Use-API-Token_Django.md](Use-API-Token_Django.md)                        |        <i>-- Not Complete --</i>  |
+| [Use-API-Token_Python.py](Use-API-Token_Python.py)                        |        <i>-- Not Complete --</i>  |
+| [Use-API-Token_Ansible.yml](Use-API-Token_Ansible.yml)                    |        <i>-- Not Complete --</i>  |
