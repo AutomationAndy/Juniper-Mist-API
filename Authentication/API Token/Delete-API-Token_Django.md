@@ -2,7 +2,7 @@
 
 ## Instructions ##
 
-After logging into <https://manage.mist.com> Navigate to <https://api.mist.com/api/v1/self/apitokens/>[Your API Token ID goes here]
+After logging into <https://manage.mist.com> Navigate to <https://api.mist.com/api/v1/self/apitokens/>[Your_API_Token_ID_goes_here]
 
 You can find your Token's ID from the List API section of this repo. In this example I'm using "4b4007f1-d6dd-47e0-8e49-12bbdf50abf6" but that will be different for you.
 
