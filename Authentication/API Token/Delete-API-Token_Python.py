@@ -6,8 +6,9 @@ import http.client, json
 #--- https://github.com/AutomationAndy/Juniper-Mist-API/ ---
 #-----------------------------------------------------------
 
-
+#Put your API token here, otherwise you'll get a "detail": "Invalid token header. No credentials provided." error.
 Token = ""
+#Put the ID of the token you want to delete here:
 TokenID = ""
 
 conn = http.client.HTTPSConnection("api.mist.com")
