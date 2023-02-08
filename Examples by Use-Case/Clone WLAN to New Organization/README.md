@@ -1,10 +1,10 @@
 # Clone WLAN to New Org #
 
-## What it Does ##
+## What Does it Do? ##
 
 Clone a WLAN from one Organization to another using Python.
 
-## Why ##
+## Why Did We Need it? ##
 
 Original use-case was that a managed service provider wanted to copy a golden WLAN Template from one of their customers to another. As of writing this, you can't clone WLAN's or their templates from one Organization to another, so this will at least copy the WLAN configuration from one to another, then you can manually create a WLAN Template with the new WLAN(s).
 
