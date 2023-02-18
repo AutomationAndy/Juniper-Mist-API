@@ -23,3 +23,8 @@ Original use-case was that a managed service provider wanted to copy a golden WL
 ## Notes ##
 
 This will not copy anything with a password field. It will copy over just the *******. I assume this is for security purposes, but it should be easy to go in and manually edit the WLAN after its been copied.
+
+## Credits / Collaborators / Idea Makers ##
+
+Vijay R.
+Gene S.

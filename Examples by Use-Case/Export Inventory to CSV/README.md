@@ -6,7 +6,7 @@ Exports the inventory of an Org to a CSV file.
 
 ## Why did we need it? ##
 
-Built for the use-case of bulk editing the notes section of AP's. We need IDs and other details from the inventory of the Organization so that we can use it later in another script.
+Orignially built to grab the 'magic' column of an Organization's AP inventory, rebuilt for a new use-case of bulk editing the notes section of AP's. We need IDs and other details from the inventory of the Organization so that we can use it later in another script.
 
 ## Instructions ##
 
@@ -17,3 +17,7 @@ Built for the use-case of bulk editing the notes section of AP's. We need IDs an
 ## Notes ##
 
 This will create a file called 'output.csv' in the same directory as this python script. The 'magic' column is the claim/activation code for the device.
+
+## Credits / Collaborators / Idea Makers ##
+
+Garth H.
