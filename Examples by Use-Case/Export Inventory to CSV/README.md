@@ -16,4 +16,4 @@ Built for the use-case of bulk editing the notes section of AP's. We need IDs an
 
 ## Notes ##
 
-This will create a file called 'output.csv' in the same directory as this python script.
+This will create a file called 'output.csv' in the same directory as this python script. The 'magic' column is the claim/activation code for the device.
