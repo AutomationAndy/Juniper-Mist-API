@@ -6,7 +6,7 @@ Exports the inventory of an Org to a CSV file.
 
 ## Why did we need it? ##
 
-Orignially built to grab the 'magic' column of an Organization's AP inventory, rebuilt for a new use-case of bulk editing the notes section of AP's. We need IDs and other details from the inventory of the Organization so that we can use it later in another script.
+Orignially built to grab the 'magic' column of an Organization's AP inventory, rebuilt for a new use-case of bulk editing the notes section of AP's. We need IDs and other details from the inventory of the Organization so that we can use it later in another script. This was written so that it should include firewalls, switches, and whatever else comes out of the API call.
 
 ## Instructions ##
 
